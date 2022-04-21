@@ -1,11 +1,11 @@
 import json, argparse
 from termcolor import colored
 
-def tagging(tags):
+def tagging(tagged_sentences):
     verb_count = 0
-    for sentences in tags:
-        for tuples in sentences:
-            if tuples[1] == "VERB":
+    for words in tagged_sentences:
+        for word in words:
+            if word[1] == "VERB":
                 verb_count += 1
 
     print('Total verbs to tag: %i' % verb_count)
@@ -13,54 +13,37 @@ def tagging(tags):
     
     verb_count = 0
     break_out_flag = False
-    for sentences in tags:
-        for tuples in sentences:
+    for words in tagged_sentences:
+        for i in range(len(words)):
             # if this is not a verb, skip
-            if tuples[1] != "VERB":
+            if words[i][1] != "VERB":
                 continue
 
             verb_count += 1
             # if this verb is tagged, skip
-            if len(tuples) > 2:
+            if len(words[i]) > 2:
                 continue
 
-            
-            l1 = tuples[0]
-            text = sentences[0][0]
-
-            for i in range(1,len(sentences)):
-                text += " "
-                text += sentences[i][0]
-
-            # add word highlighting
-            result = " ".join(colored(t,'white','on_red') if t in l1 else t for t in text.lower().split())
+            # highlight word in sentence
+            word = words[i][0]
+            result = " ".join(colored(words[j][0],'white','on_red') if j == i else words[j][0] for j in range(len(words)))
             print(result)
 
-            num = input('Enter %i num: ' % verb_count)
-            print(type(num))
+            num = input('Enter %i tag: ' % verb_count)
             if num == "1":
-                #tuples += bstep
-                #tuples = tuples + ["B-STEP"]
-                tuples.append('B-STEP')
-                print(tuples)
+                words[i].append('B-STEP')
             elif num == "2":
-                #tuples += istep
-                #tuples = tuples + ["I-STEP"]
-                tuples.append('I-STEP')
+                words[i].append('I-STEP')
             elif num == "3":
-                #tuples += o
-                #tuples = tuples + ["O"]
-                tuples.append('O')
-                print(tuples)
+                words[i].append('O')
             elif num == "0":
                 break_out_flag = True
                 break
 
         if break_out_flag:
             break
-
-    print(tags[0])
-    return tags
+        
+    return tagged_sentences
 
 def main():
     parser = argparse.ArgumentParser(
@@ -76,7 +59,7 @@ def main():
     #print(tags[0][8])
     tags = tagging(tags)
 
-    with open('tags.json', 'w') as f:
+    with open(args.tag_file, 'w') as f:
         json.dump(tags, f)
 
 if __name__ == "__main__":
