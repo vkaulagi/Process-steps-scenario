@@ -1,0 +1,49 @@
+sent_id,word_id,code1,code2,sentence
+14,3,O,B-STEP,"Reviewers tend to [mention] the difficulty of the trail , and give a sense of what kind of situation and group it 's right for ."
+14,11,O,B-STEP,"Reviewers tend to mention the difficulty of the trail , and [give] a sense of what kind of situation and group it 's right for ."
+15,20,O,B-STEP,Once you find some good looking apartments you just reach out to the owner or management company to inquire about [setting] the apartment .
+16,6,B-STEP,O,The very first thing that I [do] before anything else is I begin to research different clinics in the area .
+16,12,B-STEP,O,The very first thing that I do before anything else is I [begin] to research different clinics in the area .
+18,3,B-STEP,O,"If the apartment [looks] good once you go see it , then you can discuss the moving in terms with the owner and move into the place ."
+21,31,B-STEP,O,"During these tours , it is important for me to check out the quality of the apartment , the people that live by it , and how the noise / atmosphere [makes] me feel as these are all things that I value highly ."
+21,33,B-STEP,O,"During these tours , it is important for me to check out the quality of the apartment , the people that live by it , and how the noise / atmosphere makes me [feel] as these are all things that I value highly ."
+24,2,B-STEP,O,"I also [prefer] to going to a place with a nice restroom , as I always end up needing it ."
+24,18,B-STEP,O,"I also prefer to going to a place with a nice restroom , as I always end up [needing] it ."
+27,9,B-STEP,O,"If a certain route is likely to be more [crowded] at a certain time of day , I 'll plan out a different route that has fewer people ."
+28,13,B-STEP,O,"After that , I 'll decide which type of food that I 'd [like] the most ."
+29,13,B-STEP,O,"I then look at the area to see what types of trails are [being] offered , the location and safety concerns ."
+32,10,B-STEP,O,I am typically looking for a place that friends really [enjoyed] or that has great reviews online .
+33,9,B-STEP,O,"When I am sick , the first thing I [do] is assess whether or not it is bad enough to warrant a doctor ."
+35,5,B-STEP,O,"As a hiker , to [begin] with I would search for various parks with hiking trails that are n't too far away from me ."
+37,27,O,B-STEP,Then I would make a list of the apartments that were in my budget because I do n't want to look at apartments that I can not [afford] .
+42,4,O,B-STEP,"The first question will [define] the group and help establish ability , transportation , equipment , and trail type ."
+42,9,O,B-STEP,"The first question will define the group and help [establish] ability , transportation , equipment , and trail type ."
+44,6,B-STEP,O,The first thing you need to [do] is find good parks with trails in your area .
+45,10,O,B-STEP,My goal is to find a reasonably priced restaurant that [serves] excellent food .
+50,6,O,B-STEP,"My goal is always to be [seen] and given the best possible diagnosis that I can get , as my cases are quite complicated and are often ignored by doctors for no reason ."
+50,8,O,B-STEP,"My goal is always to be seen and [given] the best possible diagnosis that I can get , as my cases are quite complicated and are often ignored by doctors for no reason ."
+50,15,B-STEP,O,"My goal is always to be seen and given the best possible diagnosis that I [can] get , as my cases are quite complicated and are often ignored by doctors for no reason ."
+50,27,O,B-STEP,"My goal is always to be seen and given the best possible diagnosis that I can get , as my cases are quite complicated and are often [ignored] by doctors for no reason ."
+52,16,O,B-STEP,You want a place that is going to have well mannered staff and one that also [takes] every precaution to keep you and others safe .
+52,20,O,B-STEP,You want a place that is going to have well mannered staff and one that also takes every precaution to [keep] you and others safe .
+53,8,O,B-STEP,I filter these apartments by price and amenities [offered] and try to establish a list of ones that fit my criteria .
+55,13,B-STEP,O,"If the weather is bad , I try to reschedule or try to [see] if I can finesse and make it through the hike while the forecast is bad ."
+57,16,O,B-STEP,I 'll also check Yelp and OpenTable reviews to see if I can find anything that [jumps] out at me .
+62,10,B-STEP,O,When looking for an apartment the first thing to I [do] is decide what is important to me in an apartment .
+63,9,O,I-STEP,"As soon as we get there , it starts [raining] and we have n't brought an umbrella or raincoat !"
+66,5,B-STEP,O,"Once you find one , [make] sure they accept your credit and payment options ."
+67,7,B-STEP,O,"To find an apartment , I first [start] by compiling a list of what I am looking for in an apartment , along with a budget for how much I can or want to pay in rent ."
+68,7,O,B-STEP,"Depending on my mood , I might [want] sushi or pizza or something else entirely ."
+72,21,B-STEP,O,"The first thing my wife and I , and our son , have to think about is what type of food [do] we feel like eating ."
+73,9,O,B-STEP,I value all doctors that take the time to [go] through my health record or illnesses thoroughly and show that they care for me and do n't just see me as another patient when it come to looking for a primary doctor .
+73,21,O,B-STEP,I value all doctors that take the time to go through my health record or illnesses thoroughly and show that they [care] for me and do n't just see me as another patient when it come to looking for a primary doctor .
+77,2,B-STEP,O,Then I [take] a walk around my neighborhood because there are lots of great Mexican places to choose from .
+81,16,B-STEP,O,"Next , I look to see whether they have a specialty section or sector that I [think] would suit my needs , or whether I 'd need to go somewhere more general ."
+81,18,O,B-STEP,"Next , I look to see whether they have a specialty section or sector that I think would [suit] my needs , or whether I 'd need to go somewhere more general ."
+91,5,O,B-STEP,"From there , I would [do] even more research on them and then after I chose which ones to visit , I 'd start gathering up the things I need for my pack ."
+91,23,B-STEP,O,"From there , I would do even more research on them and then after I chose which ones to visit , I 'd [start] gathering up the things I need for my pack ."
+92,1,B-STEP,O,I [think] that 's all that I would do before leaving for our trip .
+92,8,B-STEP,O,I think that 's all that I would [do] before leaving for our trip .
+94,16,O,B-STEP,I also usually take into consideration what my current budget is and what restaurant I can [afford] to eat at that day .
+96,3,B-STEP,O,That will then [help] me decide if I should be going to one type or another .
+97,5,B-STEP,O,When I get sick I [prefer] to visit a clinic that is closeby and has good reviews .
