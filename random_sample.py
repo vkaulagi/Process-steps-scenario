@@ -11,6 +11,7 @@ def main():
 
     # read the sentences
     sentences = json.load(open(args.in_file))
+    print(len(sentences))
     
     # sample the sentences
     sample = random.sample(sentences, 100)

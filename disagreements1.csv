@@ -1,0 +1,124 @@
+sent_id,word_id,code1,code2,sentence
+1,3,O,B-STEP,I should already [know] the route I am going to take and how to get back to the beginning of the trail .
+1,7,O,I-STEP,I should already know the route I [am] going to take and how to get back to the beginning of the trail .
+1,8,O,I-STEP,I should already know the route I am [going] to take and how to get back to the beginning of the trail .
+1,10,B-STEP,I-STEP,I should already know the route I am going to [take] and how to get back to the beginning of the trail .
+3,4,O,I-STEP,What sort of features [would] you like for an apartment ?
+3,6,O,B-STEP,What sort of features would you [like] for an apartment ?
+5,1,O,B-STEP,You [want] a place that is clean and will help you become healthy again .
+6,9,O,B-STEP,"First and foremost , what are you willing to [spend] ?"
+8,1,O,B-STEP,"I [pay] special attention to things like waiting time , professionalism , and bedside manor , as well as times the clinics are open , and how far the clinics are from where I live ."
+9,11,O,B-STEP,It is recommended by the American Hiking Society that anyone who [plans] to go for a hike should make at least one person aware of your plans and the location you intend to hike .
+9,17,O,I-STEP,It is recommended by the American Hiking Society that anyone who plans to go for a hike [should] make at least one person aware of your plans and the location you intend to hike .
+9,31,O,B-STEP,It is recommended by the American Hiking Society that anyone who plans to go for a hike should make at least one person aware of your plans and the location you [intend] to hike .
+9,33,O,B-STEP,It is recommended by the American Hiking Society that anyone who plans to go for a hike should make at least one person aware of your plans and the location you intend to [hike] .
+10,1,O,B-STEP,"I [care] what I think , not what others think ."
+10,4,O,B-STEP,"I care what I [think] , not what others think ."
+11,5,O,I-STEP,The first thing that I [would] do if I needed to find a new apartment would be to look at listings online for the area I want to live in .
+11,11,B-STEP,O,The first thing that I would do if I needed to [find] a new apartment would be to look at listings online for the area I want to live in .
+12,2,O,I-STEP,"When I [have] found who I like from that department , I go to the next department I need a specialist in and repeat this process over again ."
+12,6,O,B-STEP,"When I have found who I [like] from that department , I go to the next department I need a specialist in and repeat this process over again ."
+14,2,O,I-STEP,"Then you [should] identify which components of the meal are most important or that you want to limit , such as distance from the restaurant , minimum service or taste requirements , or average cost ."
+14,17,B-STEP,O,"Then you should identify which components of the meal are most important or that you want to [limit] , such as distance from the restaurant , minimum service or taste requirements , or average cost ."
+17,3,B-STEP,O,"If I am [taking] my children , I make sure the restaurant is kid friendly ."
+18,6,O,B-STEP,"When I view it , I [go] with my initial gut reaction ."
+19,10,O,B-STEP,I rank this list of amenities by how much I [deem] them essential .
+21,1,O,I-STEP,I [will] pay attention to details like how much experience the doctors have and whether they are rated as friendly and caring .
+21,2,O,B-STEP,I will [pay] attention to details like how much experience the doctors have and whether they are rated as friendly and caring .
+22,1,O,I-STEP,I [want] to look at the location and see if it is a busy street or quiet neighborhood .
+23,5,O,I-STEP,"I have certain things I [might] prefer that other people would not prefer , like a straightforward doctor or physician 's assistant ."
+23,6,O,B-STEP,"I have certain things I might [prefer] that other people would not prefer , like a straightforward doctor or physician 's assistant ."
+24,16,B-STEP,O,"My goal is to get a skilled , well reviewed , and experienced doctor that also [takes] my insurance ."
+25,10,O,I-STEP,"When planning a trail hike in a park , you [must] first determine what park you will be hiking in ."
+25,17,O,I-STEP,"When planning a trail hike in a park , you must first determine what park you will [be] hiking in ."
+26,1,O,I-STEP,I [would] look up trails in the area that I want to go hiking .
+27,1,O,I-STEP,I [will] also take along a spare battery pack for the phone just in case of an emergency .
+28,1,B-STEP,O,To [find] an apartment you must first develop a budget .
+28,5,O,I-STEP,To find an apartment you [must] first develop a budget .
+29,4,O,I-STEP,"After that , I ['d] also try and find the most comfortable shoes ."
+29,6,B-STEP,I-STEP,"After that , I 'd also [try] and find the most comfortable shoes ."
+30,9,O,I-STEP,You should have the whole day available so you [can] relax and enjoy yourself .
+33,22,O,I-STEP,"I do n't want to waste a lot of gas or time traveling to places I do n't like , so I [would] try to research for great places ."
+33,23,O,I-STEP,"I do n't want to waste a lot of gas or time traveling to places I do n't like , so I would [try] to research for great places ."
+35,4,O,I-STEP,"After that , I [would] make a list of what is available and sort what I like based on price and location ."
+36,15,O,B-STEP,First I like to find a website that had trail reviews and information so I [know] how long and strenuous the hike is .
+39,3,O,I-STEP,Some obstacles I [could] face along the way may include getting lost or running into a wild animal .
+39,4,O,B-STEP,Some obstacles I could [face] along the way may include getting lost or running into a wild animal .
+39,11,O,B-STEP,Some obstacles I could face along the way may include getting [lost] or running into a wild animal .
+40,4,B-STEP,O,"Because you want to [eat] high quality food , making sure the place has good reviews is a good step to take ."
+45,9,B-STEP,O,"The only way you would n't be able to [move] in as expected is if you did n't have enough money for first month , last month rent , and security deposit but the goal would be to find something reasonable and move in with no hiccups ."
+47,5,O,I-STEP,"Keep in mind that you [have] to live around these individuals , so that is another key component to your search ."
+47,7,O,B-STEP,"Keep in mind that you have to [live] around these individuals , so that is another key component to your search ."
+48,11,O,B-STEP,When I need to choose a clinic to visit when I [get] sick first I use my computer or phone to look up medical clinics that are nearest to me .
+49,1,O,I-STEP,You [should] choose an environment you will be comfortable in so make sure you do n't end up in a bar type place if you do not like that .
+52,4,O,I-STEP,"If this happens you [should] determine which out of taste ratings , service ratings , distance , and average price is the least important to you-and extend it out some so as to widen your search ."
+53,3,B-STEP,O,"I want to [receive] good treatment , so I am careful about which clinic I pick ."
+54,4,O,B-STEP,If one does not [have] insurance they may skip this step .
+55,1,O,I-STEP,I ['ll] then pick out my top three from doing those processes .
+57,6,B-STEP,O,If you call them and they [say] they ca n't get you in for a long time then that is a major obstacle and you have to decline and keep looking .
+57,10,B-STEP,O,If you call them and they say they ca n't [get] you in for a long time then that is a major obstacle and you have to decline and keep looking .
+57,29,B-STEP,I-STEP,If you call them and they say they ca n't get you in for a long time then that is a major obstacle and you have to decline and [keep] looking .
+57,30,I-STEP,B-STEP,If you call them and they say they ca n't get you in for a long time then that is a major obstacle and you have to decline and keep [looking] .
+58,1,O,I-STEP,"I ['d] pack up my camera , binoculars , first aid kit , water , food , etc ."
+61,0,B-STEP,O,[Based] on the map I would know approximately how long it would take me to finish the trail .
+61,5,O,I-STEP,Based on the map I [would] know approximately how long it would take me to finish the trail .
+61,12,B-STEP,O,Based on the map I would know approximately how long it would [take] me to finish the trail .
+62,18,B-STEP,O,"I think it is important to be at ease in a clinic , that just makes the appointment [go] by that much simpler ."
+63,1,O,I-STEP,"We [will] go through the pros and cons of each of them , and then probably argue for a bit ."
+64,14,O,I-STEP,"If I can not find an available apartment within my price range , I [will] call the property manager directly to negotiate the price and work out an affordable deal ."
+65,22,B-STEP,O,"You may need to do this multiple times , especially if you live in a rural area , but eventually you 'll [find] a restaurant that matches your preferences ."
+65,26,B-STEP,O,"You may need to do this multiple times , especially if you live in a rural area , but eventually you 'll find a restaurant that [matches] your preferences ."
+66,4,O,I-STEP,A time where I [can] call my own and enjoy it for the weekend .
+67,2,O,I-STEP,"Then I [would] try to figure out all the different options that are almost the same , because you will find a lot of identical options !"
+67,3,B-STEP,I-STEP,"Then I would [try] to figure out all the different options that are almost the same , because you will find a lot of identical options !"
+67,19,O,I-STEP,"Then I would try to figure out all the different options that are almost the same , because you [will] find a lot of identical options !"
+68,23,O,B-STEP,I then research the list of doctors within driving distance of where I live and thoroughly read through reviews about the doctor to [ensure] I get excellent care .
+68,25,B-STEP,O,I then research the list of doctors within driving distance of where I live and thoroughly read through reviews about the doctor to ensure I [get] excellent care .
+69,1,O,I-STEP,I [would] make notes of what is available by checking real estate websites online .
+70,9,B-STEP,O,"Finally , if you researched right - you should [find] a comfortable spot that you love !"
+70,15,B-STEP,O,"Finally , if you researched right - you should find a comfortable spot that you [love] !"
+71,2,O,I-STEP,First I [would] do a Google search for clinics that are close and read the reviews for ones that I like .
+71,20,B-STEP,O,First I would do a Google search for clinics that are close and read the reviews for ones that I [like] .
+72,1,O,I-STEP,I [would] make sure that we all have the necessary supplies and equipment before we leave .
+73,9,B-STEP,O,"On the other hand , if I 'm just [hiking] for recreation , maybe with friends , I might choose something shorter and less intense ."
+74,10,B-STEP,O,"If the reviews of apartments are bad , I would [prefer] trying to find one that has satisfied customers because you are really risking your tenant !"
+74,11,B-STEP,O,"If the reviews of apartments are bad , I would prefer [trying] to find one that has satisfied customers because you are really risking your tenant !"
+75,3,B-STEP,O,"Google will also [show] reviews which may be helpful in pointing out information that you may otherwise not know , such as how good/bad the condition of the trail is , how steep/far up it goes , and their may also potentially be hours in which the trail is open to the public and hours when its closed ."
+75,10,B-STEP,O,"Google will also show reviews which may be helpful in [pointing] out information that you may otherwise not know , such as how good/bad the condition of the trail is , how steep/far up it goes , and their may also potentially be hours in which the trail is open to the public and hours when its closed ."
+76,1,O,I-STEP,"You [will] want to figure out what location you want , price , how nice the inside is , amenities , etc ."
+76,2,O,I-STEP,"You will [want] to figure out what location you want , price , how nice the inside is , amenities , etc ."
+77,2,O,I-STEP,If I [have] to wait a long time to get the appointment I definitely wo n't be going to that clinic .
+77,17,B-STEP,O,If I have to wait a long time to get the appointment I definitely wo n't be [going] to that clinic .
+78,4,B-STEP,O,"The next thing to [do] is to make sure that I am looking at a legitimate website for finding apartments , because I do not want to get scammed ."
+78,11,O,I-STEP,"The next thing to do is to make sure that I [am] looking at a legitimate website for finding apartments , because I do not want to get scammed ."
+78,18,B-STEP,O,"The next thing to do is to make sure that I am looking at a legitimate website for [finding] apartments , because I do not want to get scammed ."
+78,27,B-STEP,O,"The next thing to do is to make sure that I am looking at a legitimate website for finding apartments , because I do not want to [get] scammed ."
+78,28,B-STEP,O,"The next thing to do is to make sure that I am looking at a legitimate website for finding apartments , because I do not want to get [scammed] ."
+79,4,B-STEP,O,"Reviews will let you [know] if it 's too hard for certain conditions , or if dogs are allowed ."
+81,12,O,I-STEP,"I like it to be as quiet as possible so that I [can] hear the sounds of nature , like the birds and the wind blowing through the trees , during my walk when I 'm not listening to music ."
+81,13,O,B-STEP,"I like it to be as quiet as possible so that I can [hear] the sounds of nature , like the birds and the wind blowing through the trees , during my walk when I 'm not listening to music ."
+81,35,O,I-STEP,"I like it to be as quiet as possible so that I can hear the sounds of nature , like the birds and the wind blowing through the trees , during my walk when I ['m] not listening to music ."
+83,1,B-STEP,O,I [pay] attention to the dates of the reviews because management changes over time and this could make a difference in the renter 's experience .
+84,9,O,I-STEP,I would probably also have to consider where I [have] already eaten this week .
+87,2,O,I-STEP,Then I [will] find the numbers for the apartments and contact the management to see if there are openings .
+88,2,B-STEP,I-STEP,"Then I [take] a look at my price cost , is it something expensive that I want to eat or is it low cost ?"
+88,18,B-STEP,O,"Then I take a look at my price cost , is it something expensive that I want to [eat] or is it low cost ?"
+89,10,B-STEP,O,I then go online to an apartment web site that [lists] available apartments .
+90,11,B-STEP,O,After I start the hike I would routinely time myself to [make] sure I am still on track .
+92,3,B-STEP,O,"Then , you [need] to do your research ."
+93,4,B-STEP,O,If they ca n't [get] me in soon enough I repeat the process and try another clinic .
+94,4,B-STEP,O,"My goal is to [find] a restaurant to eat at and so I have to consider what it is that I like to eat , what I have a budget for , and what is open ."
+94,8,B-STEP,O,"My goal is to find a restaurant to [eat] at and so I have to consider what it is that I like to eat , what I have a budget for , and what is open ."
+94,13,O,I-STEP,"My goal is to find a restaurant to eat at and so I [have] to consider what it is that I like to eat , what I have a budget for , and what is open ."
+94,23,B-STEP,O,"My goal is to find a restaurant to eat at and so I have to consider what it is that I like to [eat] , what I have a budget for , and what is open ."
+95,3,B-STEP,O,If it might [take] too long then I 'd likely move farther down the list .
+95,8,O,I-STEP,If it might take too long then I ['d] likely move farther down the list .
+96,1,O,I-STEP,"You [might] run into a problem with the security deposit when you go to rent , sometimes apartment complexes want more of a deposit than you feel is necessary , if you feel it is out of your price range , you might have no choice other than to haggle on it or continue your search ."
+96,12,B-STEP,O,"You might run into a problem with the security deposit when you [go] to rent , sometimes apartment complexes want more of a deposit than you feel is necessary , if you feel it is out of your price range , you might have no choice other than to haggle on it or continue your search ."
+96,14,B-STEP,O,"You might run into a problem with the security deposit when you go to [rent] , sometimes apartment complexes want more of a deposit than you feel is necessary , if you feel it is out of your price range , you might have no choice other than to haggle on it or continue your search ."
+96,32,B-STEP,O,"You might run into a problem with the security deposit when you go to rent , sometimes apartment complexes want more of a deposit than you feel is necessary , if you [feel] it is out of your price range , you might have no choice other than to haggle on it or continue your search ."
+97,2,O,I-STEP,Then I [will] sort them by price .
+99,2,O,I-STEP,"After I [am] looking at the list of clinics that take my insurance , I look up the Doctors listed on google and try to find honest reviews about the Doctors and the clinics ."
+99,10,B-STEP,O,"After I am looking at the list of clinics that [take] my insurance , I look up the Doctors listed on google and try to find honest reviews about the Doctors and the clinics ."
+99,19,B-STEP,O,"After I am looking at the list of clinics that take my insurance , I look up the Doctors [listed] on google and try to find honest reviews about the Doctors and the clinics ."
+99,23,B-STEP,I-STEP,"After I am looking at the list of clinics that take my insurance , I look up the Doctors listed on google and [try] to find honest reviews about the Doctors and the clinics ."
